@@ -160,3 +160,8 @@ p {
 #contact .form-group span {
   color: #FF0D06;
 }
+
+.map {
+  margin-left: 700px;
+  margin-top: -400px;
+}
